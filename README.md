@@ -21,6 +21,9 @@ Assignment:3-
  
  ![input1](https://user-images.githubusercontent.com/71128419/228486819-20cdb9d1-9467-4353-8818-1a9ce3b9442d.png)
  ![input 2](https://user-images.githubusercontent.com/71128419/228486721-92d9d7b3-74f4-457c-bab6-0b624cf0fc59.png)
+
+ *IN FORM ASSIGNMENT STATE,NATIONALITY AND DIST FIELD SHOULD BE DROPDOWN
+ ** USE TYPE ACCORDING TO FIELD (i.e for number it should be number)
  ![form](https://user-images.githubusercontent.com/71128419/228486949-60f162e3-0e20-4744-91cd-0f82e8f6c088.png)
 
 Assignment:- 4
